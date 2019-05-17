@@ -25,3 +25,4 @@ function cirkel() {
 
 }
 // de bedoeling van deze kunst is om meer kleur en verandering te zien. je moet blijven te kijken.Het duurt ongeveer 1min.
+// brunch
